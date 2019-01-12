@@ -1,4 +1,4 @@
-# Guess with linear (O(2^b) time) when b is the number of bits.
+# Guess with exponential (O(2^b) time) when b is the number of bits.
 # Time is O(n) where n is the maximum number.
 from random import randint
 
