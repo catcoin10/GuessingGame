@@ -3,7 +3,7 @@
 from random import randint
 
 global secret
-max = 10**10
+max = 10**3 # we cannot have the max too low
 # oracle
 secret = randint(1, max) # get a random number
 
