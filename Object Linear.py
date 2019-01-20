@@ -1,6 +1,6 @@
 # This program runs in O(b) time.
 # This variation was achieved by changing just one variable.
-# Written by catcoin10
+# Written by catcoin10 in January 2019
 
 from random import randint
 
