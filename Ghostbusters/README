@@ -1,0 +1,15 @@
+This game is meant to detect ghosts by analyzing frequency distribution.
+This technique is used by actual ghostbusters because ghosts give off a footprint by slightly changing probability waves.
+To play the game:
+
+1. Run the file.
+2. Press a number between 1 and 3.
+3. Once you are done, go back to step 1 (if you want to.)
+
+How it works:
+
+The python randint library uses random data in the surrounding environment as a seed. This basically means that the pseudo random data from the environment. The sources of the true randomness are called "environmental noise" and the source of the randomness the ghost game uses is called algorithmic noise. Despite the fact that doing so would be impractical for a computer, ghosts are able to modify the data.
+
+Disclaimer:
+
+I originally found this in a coding book and made slight modifications to the printing text because it looks better.
